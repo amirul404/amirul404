@@ -10,7 +10,7 @@
 - Javascript
 - SQL Server
 
-<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/rYKOIPLS2qbsDYBTFd/giphy.gif" />
+<center><img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/rYKOIPLS2qbsDYBTFd/giphy.gif"/></center>
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=amirul404&show_icons=true&theme=radical)
